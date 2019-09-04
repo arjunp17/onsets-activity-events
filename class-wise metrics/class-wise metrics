@@ -1,0 +1,2 @@
+By comparing the class-wise event based F-scores of sed_sad and sed_onset models, there are a few interesting observations. For impulsive-high energy events like gun shot, car horn, and drilling
+onset detection is very decisive in improving event based detection. However, for percussive and periodic events like engine idling and siren sound activity conditioned SED is more effective than onset conditioned event detection
