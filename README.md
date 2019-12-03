@@ -6,12 +6,11 @@ context of dynamic polyphony levels at each frame, sound events interfere with e
          
 # Description
 
-1. /feature_extration - this folder contains code and associated files for feature extraction
-2. /annotations - this folder contains ground truth anotations for SED, SAD, and ONSET
-3. /training - baseline models for SED, SAD, and ONSET detection, conditional models for SED
-4. /testing - code for model prediction
-5. /evaluation - codes for SED and ONSET evaluation
-6. /best_models - best models for conditional SED
+         /feature_extration - this folder contains code and associated files for feature extraction
+         /training - baseline models for SED, SAD, and ONSET detection, conditional models for SED
+         /testing - code for model prediction
+         /evaluation - codes for SED and ONSET evaluation
+         /best_models - best models for conditional SED
 
  
 
