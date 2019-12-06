@@ -26,6 +26,8 @@ context of dynamic polyphony levels at each frame, sound events interfere with e
 
 
 [2] A. Mesaros, T. Heittola, and T. Virtanen, “Metrics for polyphonic sound event detection, ”Applied Sciences, vol. 6, no. 6,p. 162, 2016.
+
+[3] C. Hawthorne, E. Elsen, J. Song, A. Roberts, I. Simon, C. Raffel, J. Engel, S. Oore, and D. Eck, “Onsets and frames: Dual objective  piano  transcription, ”International Conference of Music Information retrieval (ISMIR), 2018.
                 
                 
                 
