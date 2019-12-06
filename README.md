@@ -14,7 +14,9 @@ context of dynamic polyphony levels at each frame, sound events interfere with e
 
  
 
-                
+# Publications
+
+[ONSETS, ACTIVITY, AND EVENTS: A MULTI-TASK APPROACH FOR POLYPHONICSOUND EVENT MODELLING](http://dcase.community/documents/workshop2019/proceedings/DCASE2019Workshop_Pankajakshan_43.pdf)
                 
                 
                 
