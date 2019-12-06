@@ -16,7 +16,7 @@ context of dynamic polyphony levels at each frame, sound events interfere with e
 
 # Publications
 
-[Pankajakshan A, Bear H, Benetos E. Onsets, activity, and events: a multi-task approach for polyphonic sound event modelling 4th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2019), New York, USA, 25 Oct 2019 - 26 Oct 2019.] (http://dcase.community/documents/workshop2019/proceedings/DCASE2019Workshop_Pankajakshan_43.pdf)
+[Pankajakshan A, Bear H, Benetos E. Onsets, activity, and events: a multi-task approach for polyphonic sound event modelling 4th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2019), New York, USA, 25 Oct 2019 - 26 Oct 2019](http://dcase.community/documents/workshop2019/proceedings/DCASE2019Workshop_Pankajakshan_43.pdf)
                 
                 
                 
