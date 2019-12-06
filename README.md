@@ -20,5 +20,11 @@ context of dynamic polyphony levels at each frame, sound events interfere with e
                 
                 
                 
+# References
+
+[1]  J. Salamon, D. MacConnell, M. Cartwright, P. Li, and J. P.Bello, “Scaper: A library for soundscape synthesis and aug-mentation,” in IEEE Workshop on Applications of Signal Processing  to  Audio  and  Acoustics  (WASPAA),  2017,  pp.  344–348.
+[2] A. Mesaros, T. Heittola, and T. Virtanen, “Metrics for polyphonic sound event detection, ”Applied Sciences, vol. 6, no. 6,p. 162, 2016.
+                
+                
                 
                 
