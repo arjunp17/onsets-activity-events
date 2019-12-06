@@ -21,12 +21,12 @@ import itertools
 def model_predict(model,layer):
 	
 	# load model
-	base_model = load_model("model")
+	base_model = load_model(model)
 	#opt = Adam(lr = 0.001)
 	#model.compile(loss='binary_crossentropy', optimizer=adada, metrics=['accuracy'])
 	base_model.summary()
 	#choose the layer 
-	model = Model(inputs=base_model.input, outputs=base_model.get_layer('layer').output) 
+	model = Model(inputs=base_model.input, outputs=base_model.get_layer(layer).output) 
 	# load test feature
 	test_feature = np.load('../test_feature.npy')
 	# predict output
@@ -40,5 +40,5 @@ def model_predict(model,layer):
 	
 ## sed prediction from sed_sad_onset model
 
-model_predict(sed_sad_onset_model.hdf5,sl_out)
+model_predict('sed_sad_onset_model.hdf5','sl_out')
 
